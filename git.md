@@ -12,5 +12,5 @@ Der Name „Git“ bedeutet in der britischen Umgangssprache so viel wie „Blö
 
 Der Name Linux wurde anfangs nicht von Torvalds selbst propagiert und nur widerwillig akzeptiert.
 
-Hier ist noch ein Satz. 
+(Hier sollte eigentlich nichts mehr stehen.)
 
