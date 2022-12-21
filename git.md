@@ -11,3 +11,5 @@ Der Name „Git“ bedeutet in der britischen Umgangssprache so viel wie „Blö
 „Der Witz ‚Ich benenne alle meine Projekte nach mir, zuerst Linux, nun eben Git‘ war einfach zu gut, um ihn nicht zu machen. Aber es (dieser Befehl) ist auch kurz, einfach auszusprechen und auf einer Standardtastatur zu schreiben, dazu einigermaßen einzigartig und kein gewöhnliches Standardkommando – was ungewöhnlich ist.“ – Linus Torvalds
 
 Der Name Linux wurde anfangs nicht von Torvalds selbst propagiert und nur widerwillig akzeptiert.
+
+Weiterer Satz. 
