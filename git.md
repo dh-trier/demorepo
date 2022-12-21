@@ -14,3 +14,5 @@ Der Name Linux wurde anfangs nicht von Torvalds selbst propagiert und nur widerw
 
 (Hier sollte eigentlich nichts mehr stehen.)
 
+Wir fügen hier noch was hinzu. 
+
